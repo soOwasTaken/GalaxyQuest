@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/game-3d/*"
+  to = "/game-3d/dist/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/game-2d/*"
+  to = "/game-2d/www/:splat"
+  status = 200
